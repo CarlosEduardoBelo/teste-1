@@ -130,7 +130,7 @@ a.thumbnail:focus {
 .pagination > .active > a,
 .pagination > .active > span {
     background-color: #3E84C2;
-}
+
 
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
