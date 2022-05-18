@@ -221,6 +221,7 @@ fieldset[disabled] .btn-primary.active {
 .jumbotron .media{
     margin: 50px 0;
 }
+
 .jumbotron .media-body h1{
     margin-top: 100px;
     color: black;
@@ -551,5 +552,9 @@ footer *{
 }
 .title span{
     font-weight: 900;
+<<<<<<< HEAD
     color: black;
 }
+=======
+}
+>>>>>>> d7e9a6ce1ee51aba714cea24ea7dd7219e60b6b3
