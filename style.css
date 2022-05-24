@@ -209,7 +209,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .jumbotron{
-    background: url(images/Digimon.jpg);
+    background: url(images/Pokemon.jpg);
     color: #ffffff;
     background-attachment: fixed;
 }
@@ -552,8 +552,5 @@ footer *{
 }
 .title span{
     font-weight: 900;
-<<<<<<< HEAD
     color: black;
-=======
->>>>>>> 499e72649f426a086a8ce557195af45366cc46fb
 }
