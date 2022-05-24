@@ -209,7 +209,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .jumbotron{
-    background: url(images/intro-bg.jpg);
+    background: url(images/Digimon.jpg);
     color: #ffffff;
     background-attachment: fixed;
 }
@@ -314,7 +314,7 @@ section.about .dmask{
     font-weight: 500;
     margin: 0;
     padding: 27px 25px;
-    color: white;
+    color: #222222;
     border-radius: 3px;
     line-height: 1.7;
 }
@@ -554,7 +554,6 @@ footer *{
     font-weight: 900;
 <<<<<<< HEAD
     color: black;
-}
 =======
+>>>>>>> 499e72649f426a086a8ce557195af45366cc46fb
 }
->>>>>>> d7e9a6ce1ee51aba714cea24ea7dd7219e60b6b3
